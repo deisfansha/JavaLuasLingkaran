@@ -1,3 +1,1 @@
-# LuasLingkaran
 # HitungLuasLingkaranJava
-# JavaLuasLingkaran
